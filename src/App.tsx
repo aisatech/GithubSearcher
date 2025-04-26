@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import SearchContainer from './components/SearchContainer/SearchContainer';
 import './index.css';
